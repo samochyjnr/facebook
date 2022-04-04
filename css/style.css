@@ -1,0 +1,82 @@
+section{
+  background-color: #F7F7F7 ;
+}
+
+
+.img1{
+  padding-top: 170px;
+  margin-left: 40px;
+  background-color: #F7F7F7 ;
+}
+
+h2 {
+  text-align: right;
+}
+
+.cardy{
+  margin-top: 150px;
+  margin-bottom: 0px;
+text-align: center;
+margin-left: 50px;
+}
+
+.form-inline{
+  width: 100;
+}
+
+.btn1{
+  margin-bottom: 20px;
+}
+
+.btn2{
+  padding-bottom: 20px;
+}
+
+h6{
+  color: #D4CECE;
+}
+
+p{
+padding-top: 30px;
+font-size: 14px;
+text-align:right;
+}
+
+span{
+  font-weight: bold;
+}
+
+/* this is styling for password page */
+
+.head1{
+  color: #3156FF;
+  font-size: 50px;
+}
+
+.p1{
+  padding-left: 10px;
+
+}
+
+.card2{
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+
+.card-text2{
+  margin-top: 20px;
+
+}
+
+.gobtn{
+  float: right;
+}
+
+/* styling for reg page */
+.pm{
+  text-align: left;
+}
+
+.btn4{
+  margin-left: right: 50px;
+}
